@@ -1,0 +1,46 @@
+body{
+    background-color: #E0C9A9;
+}
+
+.header__title{
+    color: brown;
+}
+
+.content__list{
+    list-style: none;
+    display: flex;
+    
+}
+
+.child_list{
+    margin-left: 10px;
+    
+}
+
+.malzeme{
+    
+}
+
+.malzeme__title{
+    background-color: brown;
+    width: fit-content;
+    border-radius: 5px;
+    color: white;
+}
+
+.bitis{
+    width: 100%;
+    
+    background-color: red;
+}
+
+.bitis>span{
+    font-size: 20px;
+    float: right;
+}
+
+.container{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
